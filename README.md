@@ -1,2 +1,2 @@
 # demo-dao-jdbc
-Prática de Padrão DAO(Data Acess Object)
+Práticando o Padrão DAO(Data Acess Object) do Java.
